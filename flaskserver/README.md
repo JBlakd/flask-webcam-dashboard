@@ -1,6 +1,3 @@
-1. Make sure motion is streaming not on localhost, but within your local network. Take note of which port motion is streaming video to. 
-2. Take note of which port 
-
 # Project Title
 
 Contains the flask code to host a webserver that enables video streaming from a webcam. 
